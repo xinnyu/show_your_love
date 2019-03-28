@@ -106,7 +106,7 @@ const Actions = [{
     }]
   },
   {
-    lifeTime: 180,
+    lifeTime: 170,
     texts: [{
         text: '冰',
         hsla: color2
